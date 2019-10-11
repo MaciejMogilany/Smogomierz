@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\libraries\\ESP8266mDNS\\src",
+                "C:\\Users\\Maciek\\Documents\\Arduino\\libraries\\esp8266_mdns",
+                "C:\\Users\\Maciek\\Documents\\Arduino\\libraries\\DHT_sensor_library",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\esp8266_mdns",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\WiFiManager",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\WiFiEsp\\src",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\Adafruit_ESP8266",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Bridge\\src",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\DHT_sensor_library",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\PubSubClient\\src",
+                "C:\\Users\\macie\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\macie\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/**",
+                "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
