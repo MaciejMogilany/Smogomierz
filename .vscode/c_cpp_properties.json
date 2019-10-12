@@ -3,6 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\Adafruit_LiquidCrystal",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\Adafruit_BMP280_Library",
                 "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\libraries\\ESP8266mDNS\\src",
                 "C:\\Users\\Maciek\\Documents\\Arduino\\libraries\\esp8266_mdns",
                 "C:\\Users\\Maciek\\Documents\\Arduino\\libraries\\DHT_sensor_library",

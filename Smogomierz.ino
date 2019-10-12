@@ -1,3 +1,7 @@
+#include <Adafruit_LiquidCrystal.h>
+
+#include <Adafruit_BMP280.h>
+
 #ifdef ARDUINO_ARCH_ESP8266 // ESP8266 core for Arduino - 2.5.2 or later
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
