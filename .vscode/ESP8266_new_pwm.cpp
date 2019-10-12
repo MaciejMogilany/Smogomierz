@@ -17,6 +17,7 @@
  */
 // https://github.com/StefanBruens/ESP8266_new_pwm
 // https://lurchi.wordpress.com/2016/06/29/esp8266-pwm-revisited-and-reimplemented/
+// https://github.com/JoaoLopesF/ESP8266-Arduino-PWM-SDK-Sample/tree/master/ESP8266_PWM_SDK_Sample example usage
 /* Set the following three defines to your needs */
 
 #ifndef SDK_PWM_PERIOD_COMPAT_MODE
