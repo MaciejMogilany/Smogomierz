@@ -21,7 +21,8 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/src/**",
                 "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
-                "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**"
+                "C:\\Users\\Maciek\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\macie\\OneDrive\\Dokumenty\\Arduino\\libraries\\**"
             ],
             "defines": [
                 "_DEBUG",
